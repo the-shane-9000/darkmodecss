@@ -1,0 +1,7 @@
+/* light-embed.css — forces a light theme */
+body { background:#ffffff !important; color:#202020 !important; }
+
+/* tweak MindStudio message bubbles if desired */
+.message-bubble { background:#f7f7f7 !important; }
+
+a { color:#0069ff !important; }
