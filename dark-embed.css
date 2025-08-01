@@ -1,0 +1,18 @@
+/* dark-embed.css — Minimal dark‑mode overrides for MindStudio embeds
+   Author: Generated via ChatGPT (Aug 1 2025)
+   Usage: Host this file at a public HTTPS URL and reference it with
+          ?custom_css=ENCODED_URL in your embed src.
+*/
+body { background:#111 !important; color:#eee !important; }
+
+/* message bubbles */
+.message-bubble { background:#222 !important; }
+
+/* links */
+a { color:#4dabff !important; }
+
+/* optional: tweak scrollbars (WebKit) */
+::-webkit-scrollbar { width:8px; height:8px; }
+::-webkit-scrollbar-track { background:#1a1a1a; }
+::-webkit-scrollbar-thumb { background:#444; border-radius:4px; }
+::-webkit-scrollbar-thumb:hover { background:#555; }
